@@ -180,12 +180,12 @@ a {
 }
 
 a:hover {
-  color: #86c440;
+  color: #47c9e9;
 }
 
 a.btn {
   text-decoration: none;
-  background-color: #9fd067;
+  background-color: #6747e9;
   border-radius: 6px;
   -webkit-border-radius: 6px;
   color: white;
@@ -204,7 +204,7 @@ a.btn {
 }
 
 a.btn:hover {
-  background: #86c440;
+  background: #47c9e9;
 }
 
 #header-arrow {
@@ -563,10 +563,10 @@ a.fn-item {
   color: white;
 }
 a.fn-item:hover {
-  color: #9fd067;
+  color: #6747e9;
 }
 a.fn-item.active {
-  color: #86c440;
+  color: #47c9e9;
   opacity: 1;
 }
 
