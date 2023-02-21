@@ -94,7 +94,7 @@ body {
   font-family: "Roboto Slab", serif;
   font-size: 2rem;
   line-height: 1.6em;
-  color: #3a4145;
+  color: #6747e9;
 }
 a.fa {
   text-decoration: none;
@@ -328,7 +328,7 @@ tt {
   border: 1px solid #e3edf3;
   background: #f7fafb;
   border-radius: 2px;
-  color: #3a4145;
+  color: #6747e9;
 }
 
 pre {
@@ -522,7 +522,7 @@ ul li {
 }
 .post-holder.odd {
   background: #e9b847;
-  color: white;
+  color: #6747e9; /*this used to be white*/
 }
 
 /* Every post, on every page, gets this style on its <article> tag */
