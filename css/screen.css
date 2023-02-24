@@ -435,6 +435,16 @@ ul li {
   padding-top: 7px;
 }
 
+/* Jon Added this... see if it breaks... */
+
+figcaption {
+  background-color: #6747e9;
+  color: #cccccc;
+  font-style: italic;
+  padding: 6px;
+  text-align: center;
+}
+
 /* ==========================================================================
       3. Utilities - These things get used a lot
       ========================================================================== */
